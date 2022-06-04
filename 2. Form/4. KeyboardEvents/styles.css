@@ -1,0 +1,26 @@
+body{
+    background-color: #eee;
+}
+
+form{
+    max-width: 200px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 10px;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    padding: 4px;
+}
+
+.correct{
+    border: 2px solid limegreen;
+    /* background-color: rgba(50, 205, 50, 0.5); */
+}
+
+.wrong{
+    border: 2px solid crimson;
+    /* background-color: rgba(220, 20, 60, 0.5); */
+}
